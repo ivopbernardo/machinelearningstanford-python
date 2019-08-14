@@ -12,5 +12,5 @@ Important Note: The scripts do not, and are not aiming to, substitute the course
 Programming Assignment 1 is fully completed and Programming Assignment 2 is 90% completed.
 I will keep adding scripts as soon as I finish them.
 
-##License
+## License
 All data and course structure belong to Stanford University. 
