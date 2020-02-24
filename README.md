@@ -9,7 +9,7 @@ Important Note: The scripts do not, and are not aiming to, substitute the course
 
 ## Current Notebooks
 
-Programming Assignment 1,2 and 3 are fully completed.
+Programming Assignment 1,2 3. 4, 5 and 6 are fully completed.
 I will keep adding scripts as soon as I finish them.
 
 ## License
