@@ -13,6 +13,7 @@ Programming Assignment 1,2 3, 4, 5, 6 and 7 are finished.
 
 ## License
 All data and course structure belong to Stanford University. 
+https://www.coursera.org/learn/machine-learning
 
 # PT
 
@@ -27,4 +28,8 @@ Nota importante: Os scripts não substituem o curso. São simplesmente uma ferra
 
 ## Notebooks
 
-Os exercícios de programação 1,2 3, 4, 5, 6 and 7 estão terminados.
+Os exercícios de programação 1,2 3, 4, 5, 6 e 7 estão terminados.
+
+## Licença
+Todos os dados e estrutura dos exercícios pertencem à Universidade de Stanford.
+https://www.coursera.org/learn/machine-learning
