@@ -9,16 +9,16 @@ Important Note: The scripts do not, and are not aiming to, substitute the course
 
 ## Instructions
 Install requirements:
-
+```
 pip install -r requirements.txt
-
+```
 Launch notebooks:
-
+```
 jupyter notebook
-
+```
 ## Current Notebooks
 
-Programming Assignment 1,2 3, 4, 5, 6 and 7 are finished.
+Programming Assignment 1,2 3, 4, 5, 6,7 and 8 (excluding recommender systems) are finished.
 
 ## License
 All data and course structure belong to Stanford University.
@@ -37,16 +37,16 @@ Nota importante: Os scripts não substituem o curso. São simplesmente uma ferra
 
 ## Instruções
 Instalar os requirements:
-
+```
 pip install -r requirements.txt
-
+```
 Executar o comando para ver os notebooks:
-
+```
 jupyter notebook
-
+```
 ## Notebooks
 
-Os exercícios de programação 1,2 3, 4, 5, 6 e 7 estão terminados.
+Os exercícios de programação 1,2 3, 4, 5, 6, 7 e 8 (excluindo recommender systems) estão terminados.
 
 ## Licença
 Todos os dados e estrutura dos exercícios pertencem à Universidade de Stanford.
